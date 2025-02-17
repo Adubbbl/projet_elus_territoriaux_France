@@ -1,0 +1,30 @@
+Code du département  :  {'nom_colonne': 'Code du département', 'occurence_colonne': 4, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux']}
+Libellé du département  :  {'nom_colonne': 'Libellé du département', 'occurence_colonne': 4, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux']}
+Code de la commune  :  {'nom_colonne': 'Code de la commune', 'occurence_colonne': 2, 'fichiers': ['Élus arrondissements', 'Élus municipaux']}
+Libellé de la commune  :  {'nom_colonne': 'Libellé de la commune', 'occurence_colonne': 2, 'fichiers': ['Élus arrondissements', 'Élus municipaux']}
+Libellé du secteur  :  {'nom_colonne': 'Libellé du secteur', 'occurence_colonne': 1, 'fichiers': ['Élus arrondissements']}
+Nom de l'élu  :  {'nom_colonne': "Nom de l'élu", 'occurence_colonne': 5, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux', 'Élus régionaux']}
+Prénom de l'élu  :  {'nom_colonne': "Prénom de l'élu", 'occurence_colonne': 5, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux', 'Élus régionaux']}
+Code sexe  :  {'nom_colonne': 'Code sexe', 'occurence_colonne': 5, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux', 'Élus régionaux']}
+Date de naissance  :  {'nom_colonne': 'Date de naissance', 'occurence_colonne': 5, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux', 'Élus régionaux']}
+Lieu de naissance  :  {'nom_colonne': 'Lieu de naissance', 'occurence_colonne': 1, 'fichiers': ['Élus arrondissements']}
+Code de la catégorie socio-professionnelle  :  {'nom_colonne': 'Code de la catégorie socio-professionnelle', 'occurence_colonne': 5, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux', 'Élus régionaux']}
+Libellé de la catégorie socio-professionnelle  :  {'nom_colonne': 'Libellé de la catégorie socio-professionnelle', 'occurence_colonne': 5, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux', 'Élus régionaux']}
+Date de début du mandat  :  {'nom_colonne': 'Date de début du mandat', 'occurence_colonne': 5, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux', 'Élus régionaux']}
+Libellé de la fonction  :  {'nom_colonne': 'Libellé de la fonction', 'occurence_colonne': 5, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux', 'Élus régionaux']}
+Date de début de la fonction  :  {'nom_colonne': 'Date de début de la fonction', 'occurence_colonne': 5, 'fichiers': ['Élus arrondissements', 'Élus municipaux', 'Élus communautaires', 'Élus départementaux', 'Élus régionaux']}
+Code de la nuance politique  :  {'nom_colonne': 'Code de la nuance politique', 'occurence_colonne': 1, 'fichiers': ['Élus arrondissements']}
+Libellé de la nuance politique  :  {'nom_colonne': 'Libellé de la nuance politique', 'occurence_colonne': 1, 'fichiers': ['Élus arrondissements']}
+Code de la collectivité à statut particulier  :  {'nom_colonne': 'Code de la collectivité à statut particulier', 'occurence_colonne': 2, 'fichiers': ['Élus municipaux', 'Élus communautaires']}
+Libellé de la collectivité à statut particulier  :  {'nom_colonne': 'Libellé de la collectivité à statut particulier', 'occurence_colonne': 2, 'fichiers': ['Élus municipaux', 'Élus communautaires']}
+Code nationalité  :  {'nom_colonne': 'Code nationalité', 'occurence_colonne': 1, 'fichiers': ['Élus municipaux']}
+N° SIREN  :  {'nom_colonne': 'N° SIREN', 'occurence_colonne': 1, 'fichiers': ['Élus communautaires']}
+Libellé de l'EPCI  :  {'nom_colonne': "Libellé de l'EPCI", 'occurence_colonne': 1, 'fichiers': ['Élus communautaires']}
+Code de la commune de rattachement  :  {'nom_colonne': 'Code de la commune de rattachement', 'occurence_colonne': 1, 'fichiers': ['Élus communautaires']}
+Libellé de la commune de rattachement  :  {'nom_colonne': 'Libellé de la commune de rattachement', 'occurence_colonne': 1, 'fichiers': ['Élus communautaires']}
+Code du canton  :  {'nom_colonne': 'Code du canton', 'occurence_colonne': 1, 'fichiers': ['Élus départementaux']}
+Libellé du canton  :  {'nom_colonne': 'Libellé du canton', 'occurence_colonne': 1, 'fichiers': ['Élus départementaux']}
+Code de la région  :  {'nom_colonne': 'Code de la région', 'occurence_colonne': 1, 'fichiers': ['Élus régionaux']}
+Libellé de la région  :  {'nom_colonne': 'Libellé de la région', 'occurence_colonne': 1, 'fichiers': ['Élus régionaux']}
+Code de la section départementale  :  {'nom_colonne': 'Code de la section départementale', 'occurence_colonne': 1, 'fichiers': ['Élus régionaux']}
+Libellé de la section départementale  :  {'nom_colonne': 'Libellé de la section départementale', 'occurence_colonne': 1, 'fichiers': ['Élus régionaux']}
